@@ -1,6 +1,9 @@
 # 1 準備
+
 - nodeのインストール
 - npmのインストール
+
+Downloadサイト : https://nodejs.org/ja/
 
 ## 手元のバージョン
 npm : 6.9.0
